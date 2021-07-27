@@ -7,6 +7,8 @@ public class Apple {
         System.out.println("Hello hai World!");
         System.out.println("Hello World!!!!!");
         System.out.println("Hey");
+        System.out.println("Hello World!");
+        System.out.println("Hello Vinesh!");
         print_line();
     }
 }
